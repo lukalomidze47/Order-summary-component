@@ -1,0 +1,27 @@
+<div class="main-div">
+      <div class="main-image">
+        <img src="./images/illustration-hero.svg" alt="dancing-girl picture" />
+      </div>
+      <div class="card-content">
+        <h1 class="heading">Order Summary</h1>
+        <p class="paragraph">
+          You can now listen to millions of songs, audiobooks, and podcasts on
+          any device anywhere you like!
+        </p>
+      </div>
+      <div class="music-image">
+        <img src="./images/icon-music.svg" alt="sound icon" />
+      </div>
+      <div class="plan-box">
+        <h2>Annual Plan</h2> 
+        <p>$59.99/year</p>
+      </div>
+      <div class="change-button">
+        <a href="#" class="change-link"></a>
+      </div>
+      <div>
+        <button class="payment">Proceed to Payment</button>
+        <a href="#" class="btn-cancel">Cancel Order</a>
+      </div>
+    </div>
+  </body>
